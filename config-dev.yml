@@ -1,2 +1,2 @@
-info:
-  name: main/config-dev.yml
+config:
+  info: main/config-dev.yml
